@@ -6,3 +6,4 @@ Session 322: tested feature 16, result OK
 Session 770: tested feature 11, result OK
 Session 89: tested feature 4, result OK
 Session 802: tested feature 23, result OK
+Session 547: tested feature 15, result OK
