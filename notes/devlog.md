@@ -8,3 +8,4 @@ Session 89: tested feature 4, result OK
 Session 802: tested feature 23, result OK
 Session 547: tested feature 15, result OK
 Session 792: tested feature 8, result OK
+Session 693: tested feature 25, result OK
