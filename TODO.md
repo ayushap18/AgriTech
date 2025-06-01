@@ -2,3 +2,4 @@
 - [ ] Task 432: optimize function 2
 - [ ] Task 777: optimize function 35
 - [ ] Task 835: optimize function 38
+- [ ] Task 178: optimize function 39
