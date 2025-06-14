@@ -6,3 +6,4 @@
 - [ ] Task 677: optimize function 33
 - [ ] Task 664: optimize function 40
 - [ ] Task 270: optimize function 46
+- [ ] Task 537: optimize function 12
