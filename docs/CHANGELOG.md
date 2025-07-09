@@ -9,3 +9,4 @@
 - Update 17904: improved module 34
 - Update 13821: improved module 26
 - Update 12596: improved module 35
+- Update 28414: improved module 3
