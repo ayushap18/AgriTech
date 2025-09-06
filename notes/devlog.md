@@ -20,3 +20,4 @@ Session 523: tested feature 18, result OK
 Session 591: tested feature 1, result OK
 Session 576: tested feature 24, result OK
 Session 541: tested feature 24, result OK
+Session 990: tested feature 10, result OK
