@@ -13,3 +13,4 @@
 - Update 30135: improved module 24
 - Update 18171: improved module 42
 - Update 5611: improved module 46
+- Update 13554: improved module 36
