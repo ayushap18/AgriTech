@@ -14,3 +14,4 @@
 - [ ] Task 310: optimize function 16
 - [ ] Task 599: optimize function 41
 - [ ] Task 552: optimize function 46
+- [ ] Task 845: optimize function 31
