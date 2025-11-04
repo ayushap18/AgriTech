@@ -15,3 +15,4 @@
 - [ ] Task 599: optimize function 41
 - [ ] Task 552: optimize function 46
 - [ ] Task 845: optimize function 31
+- [ ] Task 94: optimize function 25
