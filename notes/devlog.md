@@ -22,3 +22,4 @@ Session 576: tested feature 24, result OK
 Session 541: tested feature 24, result OK
 Session 990: tested feature 10, result OK
 Session 100: tested feature 24, result OK
+Session 31: tested feature 9, result OK
