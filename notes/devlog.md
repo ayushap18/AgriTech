@@ -24,3 +24,4 @@ Session 990: tested feature 10, result OK
 Session 100: tested feature 24, result OK
 Session 31: tested feature 9, result OK
 Session 622: tested feature 6, result OK
+Session 552: tested feature 22, result OK
