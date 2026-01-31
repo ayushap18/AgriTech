@@ -19,3 +19,4 @@
 - [ ] Task 195: optimize function 47
 - [ ] Task 111: optimize function 31
 - [ ] Task 174: optimize function 35
+- [ ] Task 844: optimize function 30
